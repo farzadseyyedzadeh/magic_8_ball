@@ -23,3 +23,4 @@ class _myBallState extends State<myBall> {
     );
   }
 }
+// magic 8 ball practice
